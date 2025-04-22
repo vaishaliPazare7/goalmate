@@ -57,10 +57,10 @@ const About: React.FC = () => {
             easier and more organized.
           </p>
           <ul className="list-disc list-inside text-gray-600 space-y-1">
-            <li>John Doe - Lead Developer</li>
-            <li>Jane Smith - UI/UX Designer</li>
-            <li>Mike Johnson - Product Manager</li>
-            <li>Sarah Williams - QA Specialist</li>
+            <li>Vaishali Pazare-Lead Developer</li>
+            <li>UI/UX Designer</li>
+            <li>Product Manager</li>
+            <li>QA Specialist</li>
           </ul>
         </div>
 
