@@ -11,7 +11,7 @@ export const ProfileView: React.FC = () => {
     occupation: 'Software Engineer',
     joinDate: 'March 2025',
     bio: 'Passionate about personal development and achieving goals. Always striving to learn and grow.',
-    avatar: 'Phone/Pictures/050_girl_avatar_pro file_woman_suit_student_officer-512 (1).png',
+    avatar: ' ',
   });
 
   const handleSave = () => {
