@@ -188,7 +188,10 @@ const About: React.FC = () => {
           Join thousands of users who have transformed how they organize their
           work and life.
         </p>
-        <button className="bg-white text-indigo-700 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg shadow-md hover:shadow-xl transition-all">
+        <button 
+          onClick={() => navigate("/dashboard")} 
+          className="bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-2 px-6 rounded-lg w-fit transition-all shadow-lg hover:shadow-xl"
+          //"bg-white text-indigo-700 hover:bg-gray-100 font-bold py-3 px-8 rounded-lg shadow-md hover:shadow-xl transition-all" >
           Get Started Now
         </button>
       </div>
