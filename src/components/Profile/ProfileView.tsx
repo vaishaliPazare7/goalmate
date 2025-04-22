@@ -11,7 +11,7 @@ export const ProfileView: React.FC = () => {
     occupation: 'Software Engineer',
     joinDate: 'March 2025',
     bio: 'Passionate about personal development and achieving goals. Always striving to learn and grow.',
-    avatar: 'https://www.freepik.com/free-vector/woman-traditional-costume_370755778.htm#fromView=keyword&page=1&position=6&uuid=a028bd40-57c9-4ace-b920-0a90924f33ba&query=Girl+Avatar',
+    avatar: 'Phone/Pictures/050_girl_avatar_pro file_woman_suit_student_officer-512 (1).png',
   });
 
   const handleSave = () => {
