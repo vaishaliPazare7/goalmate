@@ -4,12 +4,12 @@ import { Camera, Mail, Phone, MapPin, Briefcase, Calendar } from 'lucide-react';
 export const ProfileView: React.FC = () => {
   const [isEditing, setIsEditing] = useState(false);
   const [profile, setProfile] = useState({
-    name: 'John Doe',
-    email: 'john.doe@example.com',
-    phone: '+1 (555) 123-4567',
-    location: 'San Francisco, CA',
+    name: 'Vaishali Pazare',
+    email: 'vaishalipazare651@gmail.com',
+    phone: '+91 7447-622879',
+    location: 'Pune, Maharashtra',
     occupation: 'Software Engineer',
-    joinDate: 'January 2024',
+    joinDate: 'March 2025',
     bio: 'Passionate about personal development and achieving goals. Always striving to learn and grow.',
     avatar: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=150',
   });
